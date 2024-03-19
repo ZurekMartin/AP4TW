@@ -39,9 +39,9 @@ body.no-scroll {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 columns */
-    gap: 2rem; /* Gap between items */
-    justify-items: center; /* Horizontally center items in the grid */
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    justify-items: center;
 }
 
 #hero, .nav ul, .footer-text, #nav-menu ul {
