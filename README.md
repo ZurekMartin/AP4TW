@@ -1,10 +1,9 @@
 # AP4TW
-## Static website
+## Static Website
 Assassin's Creed themed simple website
 
 ### Functionality
-- Simple design
-- Simple animations
 - Dynamically loaded website content
+- Simple design with a few animations
 - User-friendly navigation between webpages
-- Efficient loading with lazy loading implemation for images
+- Efficient loading with lazy loading implementation for images
